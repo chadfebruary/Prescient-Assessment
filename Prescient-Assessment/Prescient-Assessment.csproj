@@ -110,5 +110,8 @@
   <ItemGroup>
     <Folder Include="Downloads\" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="SP_Total_Contracts_Traded_Report.sql" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
